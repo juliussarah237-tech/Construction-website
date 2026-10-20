@@ -1,0 +1,1 @@
+Download the images listed in README.txt and save them here using the exact filenames.
